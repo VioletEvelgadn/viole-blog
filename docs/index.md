@@ -14,7 +14,7 @@ hero:
       link: /guide/what-is-vitepress
     - theme: alt
       text: 关于作者
-      link: https://github.com/vuejs/vitepress
+      link: /resume/
 
 features:
         - icon: 🛠️

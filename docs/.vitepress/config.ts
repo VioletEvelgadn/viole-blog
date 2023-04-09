@@ -5,6 +5,7 @@ export default defineConfig(
         title: 'Violet 总结文档',
         lang: 'zh-CN',
         themeConfig: {
+            logo: '/',
             nav: [
                 { text: '首页', link: '/' },
                 {
