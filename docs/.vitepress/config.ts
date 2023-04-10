@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import navbar from "./navbar";
 
 export default defineConfig(
     {
@@ -6,16 +7,9 @@ export default defineConfig(
         lang: 'zh-CN',
         themeConfig: {
             logo: '/',
-            nav: [
-                { text: '首页', link: '/' },
-                {
-                    text: 'Violet',
-                    items: [
-                        { text: 'Github', link: 'https://github.com/VioletEvelgadn' },
-                        { text: '掘金', link: 'https://juejin.cn/user/1533144281127661' }
-                    ]
-                }
-            ]
+            nav: navbar
         }
     }
 )
+
+//https://avatars.githubusercontent.com/u/128378853?v=4

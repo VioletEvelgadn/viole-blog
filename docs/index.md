@@ -7,7 +7,7 @@ hero:
   text:   知识总结
   tagline: 千里之行，始于足下
   image:
-      src: https://avatars.githubusercontent.com/u/128378853?v=4
+        src: /publice/top1.png
   actions:
     - theme: brand
       text: 开始学习

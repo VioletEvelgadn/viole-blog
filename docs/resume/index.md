@@ -3,9 +3,8 @@
 
 > 某某扣1（笔名），土生土长湖南人，毕业于湖南某一本院校 软件工程专业。自大学起就从事前端开发相关工作，3 年+前端工作经验，先后服务过上市公司，做过前端负责人，前端讲师。热爱技术，开源，写作，`B站UP主` 。 同时感谢一路走来的小伙伴们，持续共建!
 
-- [小程序 zzz小助手]()
-- [B站(200+粉丝)](https://space.bilibili.com/100388195)
-- [Github(1k+ star)](https://github.com/zzz412)
+- [绝金(200+粉丝)](https://juejin.cn/user/1533144281127661)
+- [Github(100+ star)](https://github.com/VioletEvelgadn)
 
 ## 技术栈
 
@@ -13,7 +12,9 @@
 
 ## 开源 & 产品：
 
-**待添加**
+
+- [Airdnd-旅游指南](https://github.com/VioletEvelgadn/Airdnd-tour)
+
 
 ## 项目经历
 
