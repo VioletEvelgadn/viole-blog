@@ -10,16 +10,16 @@ import "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/s
 import "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-code-group.css";
 import "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-doc.css";
 import "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/styles/components/vp-sponsor.css";
-import VPBadge from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue";
-import Layout from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/Layout.vue";
-import { default as default2 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue";
-import { default as default3 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue";
-import { default as default4 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue";
-import { default as default5 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue";
-import { default as default6 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue";
-import { default as default7 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue";
-import { default as default8 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue";
-import { default as default9 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue";
+import VPBadge from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue.md";
+import Layout from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/Layout.vue.md";
+import { default as default2 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue.md";
+import { default as default3 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue.md";
+import { default as default4 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue.md";
+import { default as default5 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue.md";
+import { default as default6 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue.md";
+import { default as default7 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue.md";
+import { default as default8 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue.md";
+import { default as default9 } from "D:/学习/violet-blog/node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue.md";
 var theme = {
   Layout,
   enhanceApp: ({ app }) => {

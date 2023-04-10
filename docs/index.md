@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /guide/what-is-vitepress
+      link: /handbook/notes/web.md
     - theme: alt
       text: 关于作者
       link: /resume/
