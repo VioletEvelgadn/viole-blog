@@ -6,6 +6,10 @@ export default defineConfig(
     {
         title: 'Violet 总结文档',
         lang: 'zh-CN',
+        base: '/ viole-blog/',
+        head: [
+            ['link', { rel: 'icon', href: '/publice/top1.png' }],
+        ],
         // 主题配置
         themeConfig: {
             logo: '/',
